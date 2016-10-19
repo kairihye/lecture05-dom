@@ -100,7 +100,6 @@ linkList.appendChild(newLink); //add at end
 
 ball.addEventListener('click', function(){
 	ball.classList,toggle('down-slide');
-	ball.classList.toggle('up-slide');
 });
 
  
