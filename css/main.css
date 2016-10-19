@@ -1,0 +1,33 @@
+img {
+	max-width:250px;
+}
+
+svg {
+	max-width:500px;
+}
+
+circle {
+	fill: red;
+}
+
+.down-slide {
+	transform: translate(190px, 225px); /* move the element */
+	transition: all 1s ease-in; /* animation! */
+}
+
+.important {
+	color: red;
+}
+
+.white {
+	color: white;
+}
+
+section:last-of-type {
+	margin-bottom:1em;
+}
+
+#button1, #button2 {
+	display:inline-block;
+	margin-right:1em;
+}
